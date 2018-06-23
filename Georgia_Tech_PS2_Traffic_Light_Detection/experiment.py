@@ -1,13 +1,4 @@
-"""
-CS6476: Problem Set 2 Experiment file
-
-This script contains a series of function calls that run your ps2
-implementation and output images so you can verify your results.
-"""
-
-
 import cv2
-
 import ps2
 
 
